@@ -2,9 +2,9 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 categories:
- - "archive"
+ - ""
 tags:
- - "xxx"
+ - "xx"
  - "xxx"
 toc: true
 ---

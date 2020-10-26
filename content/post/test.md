@@ -2,7 +2,7 @@
 title: "post下的一篇文章"
 date: "2018-06-02"
 categories:
-- "archive"
+- "test"
 tags:
 - "Rust"
 - "Programing"

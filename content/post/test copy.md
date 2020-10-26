@@ -2,7 +2,7 @@
 title: "post下的另一篇文章"
 date: "2018-06-23"
 categories:
-- "archive"
+- "test"
 tags:
 - "Rust"
 - "Programing"
@@ -11,7 +11,7 @@ toc: true
 
 Title =  "zone的个人笔记"
 LanguageCode = "zh-CN"
-BaseUrl = "http://lanlingzi.cn/"
+BaseUrl = ""
 Theme =  "next"
 MetaDataFormat =  "yaml"
 CanonifyUrls =  true
@@ -37,9 +37,9 @@ DefaultContentLanguage = "zh"
   DateFormat = "2006-01-02 15:04:05"
   YearFormat = "2006年"
   MonthFormat = "01-02"
-  #BaiduStatsId = "0b07433b4ab8d587dae7d34e71973839"
-  #QQStatsId = "58416275"
-  #RevolverMapId = "5b4f2ucxar6"
+  #BaiduStatsId = ""
+  #QQStatsId = ""
+  #RevolverMapId = ""
   Fancybox = true
 
 
@@ -47,7 +47,7 @@ DefaultContentLanguage = "zh"
   Name = "zone"
 
 [Params.Share]
-  #DuoShuo = "lanlingzi"
+  #DuoShuo = ""
   Baidu = true
 
 [Params.utterances]  # https://utteranc.es/
@@ -84,5 +84,5 @@ DefaultContentLanguage = "zh"
 [[Params.Socials]]
   Name = "GitHub"
   Icon = "github"
-  URL = "https://github.com/xtfly/"
+  URL = "https://github.com/zzonee"
 
